@@ -1,5 +1,7 @@
 # evil.py
-python必不备库 借鉴Evil.js的python版 https://github.com/chao325/Evil.js
+python必不备库 借鉴Evil.js的python版 https://github.com/chao325/Evil.js  
+已提供pip安装 项目中引用即可  
+`pip install evilpy`
 
 配置出错概率, 随机概率出错 让出错更可控  
 配置出错时间, 规避目标前期检查, 你看我, 我正常, 你不看我就出错  
