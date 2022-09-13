@@ -30,7 +30,7 @@ def need_err():
         return True
     return False
 
-# 替换len 大于0的始终少1
+# 替换len 大于配置的始终少1
 # @ 长度不对啊，让我试试加几个元素看看
 def reset_len(argv):
     # 太小的数组不出错，因为容易发现
